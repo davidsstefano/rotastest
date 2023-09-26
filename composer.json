@@ -1,0 +1,15 @@
+{
+    "name": "note0/rotastest",
+    "autoload": {
+        "psr-4": {
+            "app\\": "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "davidsstefano",
+            "email": "50884100+davidsstefano@users.noreply.github.com"
+        }
+    ],
+    "require": {}
+}
